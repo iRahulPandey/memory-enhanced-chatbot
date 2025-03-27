@@ -1,0 +1,17 @@
+[tool.poetry]
+name = "memory-enhanced-chatbot"
+version = "0.1.0"
+description = ""
+authors = ["Rahul Pandey <rpandey1901@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.12"
+litellm = "^1.64.1"
+mem0ai = "^0.1.77"
+cuebit = "0.2.1"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
