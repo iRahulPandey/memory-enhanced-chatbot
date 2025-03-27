@@ -1,2 +1,2 @@
-# memory-enhanced-chatbot
-A Memory-Enhanced Chatbot with Multiple Personas
+# persona-enhanced-chatbot
+Chatbot with Multiple Personas powered by Cuebit
